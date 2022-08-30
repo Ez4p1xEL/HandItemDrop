@@ -1,0 +1,7 @@
+name: HandItemDrop
+main: p1xel.minecraft.bukkit.HandItemDrop
+version: 1.0.0
+api-version: 1.13
+commands:
+  handitemdrop:
+    aliases: [hid]

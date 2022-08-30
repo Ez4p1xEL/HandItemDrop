@@ -1,0 +1,26 @@
+# Plugin version
+Version: 1.0.0
+
+# Language list: en (ENGLISH), zh_CN (SIMPLIFIED CHINESE)
+Language: en
+
+# true to enable off hand item dropped. (1.9+ only)
+highversion: true
+
+blacklist:
+  worlds:
+    - 'world'
+  # true to change the list to WHITELIST.
+  to-whitelist: false
+
+lore-detect:
+  enable: true
+  lore: '&cNO DROP'
+
+cant-drop-item:
+  enable: true
+  list:
+    - 'DIAMOND_SWORD'
+    - 'DIAMOND_PICKAXE'
+    - 'DIAMOND_AXE'
+    - 'DIAMOND_CHESTPLATE'

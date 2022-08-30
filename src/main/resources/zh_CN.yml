@@ -1,0 +1,12 @@
+Language: zh_CN
+Prefix: HandItemDrop
+commands:
+  main:
+    - '%plugin% by p1xEL &2&l(%version%)'
+    - '&f/%plugin% reload &6重载配置文件'
+
+reload-success: '&b%plugin% &8>> &a配置文件重载成功!'
+
+no-perm: '&b%plugin% &8>> &c你没有权限这么做!'
+
+death-message: '&b%plugin% &8>> &a吼! 你丢掉了你手里拿着的物品!'

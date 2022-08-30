@@ -1,0 +1,12 @@
+Language: en
+Prefix: HandItemDrop
+commands:
+  main:
+    - '%plugin% by p1xEL &2&l(%version%)'
+    - '&f/%plugin% reload &6Reload the configuration.'
+
+reload-success: '&b%plugin% &8>> &aConfiguration reloaded successful!'
+
+no-perm: '&b%plugin% &8>> &cYou do not have perm to do that!'
+
+death-message: '&b%plugin% &8>> &aOh! You dropped the item which was holding by your hand!'
